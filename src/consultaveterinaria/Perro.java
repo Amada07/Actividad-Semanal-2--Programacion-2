@@ -14,4 +14,8 @@ public class Perro extends Mascota {
     public void hacerSonido(){
        System.out.println("El perro ladra: Guau"); 
   }
+   
+    public void vacunar(){
+        System.out.println("Vacunando al perro ");
+    }
 }
