@@ -8,13 +8,13 @@ package consultaveterinaria;
  *
  * @author amada
  */
-public class Perro extends Mascota {
+public class Perro extends Mascota implements Vacunable {
   
     @Override
     public void hacerSonido(){
        System.out.println("El perro ladra: Guau"); 
   }
-   
+   @Override 
     public void vacunar(){
         System.out.println("Vacunando al perro ");
     }
