@@ -6,4 +6,4 @@ Mascota: Clase base para todas las mascotas, esta clase incluye: metodo hacer so
 Clases: Perro, Gato, Conejo, Tortuga cada una implementa distintos comportamientos 
 Atencion Especial: Interfaz para mascotas que requieren cuidados adicionales.
 Vacunable: Interfaz para mascotas que pueden recibir vacunas.
-ConsultaVeterinaria`: clase principal que prueba todas las funcionalidades y  usando `instanceof` de forma controlada.
+ConsultaVeterinaria: Clase principal que prueba todas las funcionalidades y utilizanto instanceof. 
